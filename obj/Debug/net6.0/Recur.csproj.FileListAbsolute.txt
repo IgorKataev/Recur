@@ -1,0 +1,15 @@
+C:\IgorKats\Recur\bin\Debug\net6.0\Recur.exe
+C:\IgorKats\Recur\bin\Debug\net6.0\Recur.deps.json
+C:\IgorKats\Recur\bin\Debug\net6.0\Recur.runtimeconfig.json
+C:\IgorKats\Recur\bin\Debug\net6.0\Recur.dll
+C:\IgorKats\Recur\bin\Debug\net6.0\Recur.pdb
+C:\IgorKats\Recur\obj\Debug\net6.0\Recur.csproj.AssemblyReference.cache
+C:\IgorKats\Recur\obj\Debug\net6.0\Recur.GeneratedMSBuildEditorConfig.editorconfig
+C:\IgorKats\Recur\obj\Debug\net6.0\Recur.AssemblyInfoInputs.cache
+C:\IgorKats\Recur\obj\Debug\net6.0\Recur.AssemblyInfo.cs
+C:\IgorKats\Recur\obj\Debug\net6.0\Recur.csproj.CoreCompileInputs.cache
+C:\IgorKats\Recur\obj\Debug\net6.0\Recur.dll
+C:\IgorKats\Recur\obj\Debug\net6.0\refint\Recur.dll
+C:\IgorKats\Recur\obj\Debug\net6.0\Recur.pdb
+C:\IgorKats\Recur\obj\Debug\net6.0\Recur.genruntimeconfig.cache
+C:\IgorKats\Recur\obj\Debug\net6.0\ref\Recur.dll
